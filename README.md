@@ -1,1 +1,1 @@
-programa em python que abre mais que um ficheiros de som, que permite a visualização grafica dos ficheiros de som e que os compara definindo se a origem é a mesma
+programa em python que grava som com o ficheiro voz.py e com o ficheiro compare.py, abre mais do que um ficheiro de som e permite a visualização grafica dos ficheiros de som e compara os ficheiros definindo se a origem do som/voz é a mesma
